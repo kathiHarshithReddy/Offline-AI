@@ -1,0 +1,8 @@
+{
+  "name": "RHEA-AI: Autonomous Engineering Lab",
+  "description": "A high-performance, modular, and autonomous AI engineering laboratory dashboard with multi-agent orchestration and cybersecurity analysis tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
